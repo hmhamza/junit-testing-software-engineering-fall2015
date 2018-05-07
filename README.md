@@ -53,11 +53,6 @@ Bear in mind that the teaching assistants have their own test cases for these
 methods, so write some good tests yourself, to make it likely that your code
 will pass our tests as well.
 
-### Important note:
-The decimal numbers representing money are implemented
-as integers. The last two digits denote two decimals. So Money(200050,
-SEK) will mean 2000.50 SEK.
-
 ### Bank
 The Bank and Account classes were written by a bad programmer. When you
 are confident your Money and Currency classes work as intended, write test
